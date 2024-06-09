@@ -1,0 +1,12 @@
+python .\main_program.py "Good morning sir. We are on schedule today. The engines are running fine. Weapons are in good shape. Ready to take off"
+
+python .\main_program.py "Sir, we are detecting a massive object emerging from hyper space"
+
+python .\main_program.py "Hyperdrive settings have been checked. Location information is recorded. Target path is calculated. Ready to jump" 
+
+
+python .\main_program.py "We have detected the enemy ship. Target information has been accquired. Weapons are engaged. May fire when ready"
+
+
+
+python .\main_program.py "The ship is in critical condition. All engines are offline. Power systems are failing. Escape pods are not responding. Proposing alternative evacuation methods."
