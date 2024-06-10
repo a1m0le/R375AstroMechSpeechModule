@@ -2,7 +2,7 @@
 
 ## Overview:
 This is just a for-fun project that tries to simulate the voice of R2 and the binary language in Star Wars.
-What's special is that it is note just some random sound. If correctly recorded and analyzed, it can be used to translate back the original text (idk how yet).
+What's special is that it is note just some random sound. If correctly recorded and analyzed, it can be used to translate back the original text (idk how yet, but maybe find for each sound: its duration in 0.001s precision and the frequency to the integer Hz then you can reconstruct the bytes and then decode the message.).
 
 
 ## How to use:
